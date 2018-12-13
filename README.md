@@ -13,3 +13,6 @@
 - [Merge Two Sorted Lists](https://github.com/lawlietblue/js-algorithm/blob/master/MergeTwoSortedLists.js)
 - [Remove Duplicates from Sorted Array](https://github.com/lawlietblue/js-algorithm/blob/master/RemoveDuplicatesfromSortedArray.js)
 - [Remove Element](https://github.com/lawlietblue/js-algorithm/blob/master/RemoveElement.js)
+- [Implement strStr()](https://github.com/lawlietblue/js-algorithm/blob/master/ImplementstrStr.js)
+- [Search Insert Position](https://github.com/lawlietblue/js-algorithm/blob/master/SearchInsertPosition.js)
+- [Count and Say](https://github.com/lawlietblue/js-algorithm/blob/master/CountandSay.js)
