@@ -16,3 +16,6 @@
 - [Implement strStr()](https://github.com/lawlietblue/js-algorithm/blob/master/ImplementstrStr.js)
 - [Search Insert Position](https://github.com/lawlietblue/js-algorithm/blob/master/SearchInsertPosition.js)
 - [Count and Say](https://github.com/lawlietblue/js-algorithm/blob/master/CountandSay.js)
+- [Maximum Subarray](https://github.com/lawlietblue/js-algorithm/blob/master/MaximumSubarray.js)
+- [Length of Last Word](https://github.com/lawlietblue/js-algorithm/blob/master/LengthofLastWord.js)
+- [Plus One](https://github.com/lawlietblue/js-algorithm/blob/master/PlusOne.js)
