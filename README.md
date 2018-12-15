@@ -19,3 +19,6 @@
 - [Maximum Subarray](https://github.com/lawlietblue/js-algorithm/blob/master/MaximumSubarray.js)
 - [Length of Last Word](https://github.com/lawlietblue/js-algorithm/blob/master/LengthofLastWord.js)
 - [Plus One](https://github.com/lawlietblue/js-algorithm/blob/master/PlusOne.js)
+- [Add Binary](https://github.com/lawlietblue/js-algorithm/blob/master/AddBinary.js)
+- [Sqrt(x)](https://github.com/lawlietblue/js-algorithm/blob/master/Sqrt(x).js)
+- [Climbing Stairs](https://github.com/lawlietblue/js-algorithm/blob/master/ClimbingStairs.js)
