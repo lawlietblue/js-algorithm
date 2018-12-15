@@ -22,3 +22,6 @@
 - [Add Binary](https://github.com/lawlietblue/js-algorithm/blob/master/AddBinary.js)
 - [Sqrt(x)](https://github.com/lawlietblue/js-algorithm/blob/master/Sqrt(x).js)
 - [Climbing Stairs](https://github.com/lawlietblue/js-algorithm/blob/master/ClimbingStairs.js)
+- [Remove Duplicates from Sorted List](https://github.com/lawlietblue/js-algorithm/blob/master/RemoveDuplicatesfromSortedList.js)
+- [Merge Sorted Array](https://github.com/lawlietblue/js-algorithm/blob/master/MergeSortedArray.js)
+- [Same Tree](https://github.com/lawlietblue/js-algorithm/blob/master/SameTree.js)
