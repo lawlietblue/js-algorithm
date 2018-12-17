@@ -17,9 +17,6 @@
  * @return {boolean}
  */
 const isSymmetric = function(root) {
-  if (root === null) return true;
-  return compare(root.left, root.right);
-
   const compare = (left, right) => {
     if (left === null && right === null) return true;
     if (left !== null && right !== null && left.val === right.val) {
@@ -28,4 +25,8 @@ const isSymmetric = function(root) {
       return false;
     }
   }
+  
+  if (root === null) return true;
+  return compare(root.left, root.right);
+
 };
