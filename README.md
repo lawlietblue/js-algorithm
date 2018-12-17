@@ -25,3 +25,6 @@
 - [Remove Duplicates from Sorted List](https://github.com/lawlietblue/js-algorithm/blob/master/RemoveDuplicatesfromSortedList.js)
 - [Merge Sorted Array](https://github.com/lawlietblue/js-algorithm/blob/master/MergeSortedArray.js)
 - [Same Tree](https://github.com/lawlietblue/js-algorithm/blob/master/SameTree.js)
+- [Symmetric Tree](https://github.com/lawlietblue/js-algorithm/blob/master/SymmetricTree.js)
+- [MaximumDepthofBinaryTree](https://github.com/lawlietblue/js-algorithm/blob/master/MaximumDepthofBinaryTree.js)
+- [Binary Tree Level Order Traversal II](https://github.com/lawlietblue/js-algorithm/blob/master/BinaryTreeLevelOrderTraversalII.js)
