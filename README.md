@@ -28,3 +28,6 @@
 - [Symmetric Tree](https://github.com/lawlietblue/js-algorithm/blob/master/SymmetricTree.js)
 - [MaximumDepthofBinaryTree](https://github.com/lawlietblue/js-algorithm/blob/master/MaximumDepthofBinaryTree.js)
 - [Binary Tree Level Order Traversal II](https://github.com/lawlietblue/js-algorithm/blob/master/BinaryTreeLevelOrderTraversalII.js)
+- [Convert Sorted Array to Binary Search Tree](https://github.com/lawlietblue/js-algorithm/blob/master/ConvertSortedArraytoBinarySearchTree.js)
+- [Balanced Binary Tree](https://github.com/lawlietblue/js-algorithm/blob/master/BalancedBinaryTree.js)
+- [Minimum Depth of Binary Tree](https://github.com/lawlietblue/js-algorithm/blob/master/MinimumDepthofBinaryTree.js)
