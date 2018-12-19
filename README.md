@@ -31,3 +31,6 @@
 - [Convert Sorted Array to Binary Search Tree](https://github.com/lawlietblue/js-algorithm/blob/master/ConvertSortedArraytoBinarySearchTree.js)
 - [Balanced Binary Tree](https://github.com/lawlietblue/js-algorithm/blob/master/BalancedBinaryTree.js)
 - [Minimum Depth of Binary Tree](https://github.com/lawlietblue/js-algorithm/blob/master/MinimumDepthofBinaryTree.js)
+- [Path Sum](https://github.com/lawlietblue/js-algorithm/blob/master/PathSum.js)
+- [Pascal's Triangle](https://github.com/lawlietblue/js-algorithm/blob/master/Pascal'sTriangle.js)
+- [Pascal's Triangle II](https://github.com/lawlietblue/js-algorithm/blob/master/Pascal'sTriangleII.js)
