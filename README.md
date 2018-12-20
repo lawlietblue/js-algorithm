@@ -34,3 +34,6 @@
 - [Path Sum](https://github.com/lawlietblue/js-algorithm/blob/master/PathSum.js)
 - [Pascal's Triangle](https://github.com/lawlietblue/js-algorithm/blob/master/Pascal'sTriangle.js)
 - [Pascal's Triangle II](https://github.com/lawlietblue/js-algorithm/blob/master/Pascal'sTriangleII.js)
+- [Best Time to Buy and Sell Stock](https://github.com/lawlietblue/js-algorithm/blob/master/BestTimetoBuyandSellStock.js)
+- [Best Time to Buy and Sell Stock II](https://github.com/lawlietblue/js-algorithm/blob/master/BestTimetoBuyandSellStockII.js)
+- [Valid Palindrome](https://github.com/lawlietblue/js-algorithm/blob/master/ValidPalindrome.js)
