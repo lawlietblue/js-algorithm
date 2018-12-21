@@ -37,3 +37,6 @@
 - [Best Time to Buy and Sell Stock](https://github.com/lawlietblue/js-algorithm/blob/master/BestTimetoBuyandSellStock.js)
 - [Best Time to Buy and Sell Stock II](https://github.com/lawlietblue/js-algorithm/blob/master/BestTimetoBuyandSellStockII.js)
 - [Valid Palindrome](https://github.com/lawlietblue/js-algorithm/blob/master/ValidPalindrome.js)
+- [Single Number](https://github.com/lawlietblue/js-algorithm/blob/master/SingleNumber.js)
+- [Linked List Cycle](https://github.com/lawlietblue/js-algorithm/blob/master/LinkedListCycle.js)
+- [Min Stack](https://github.com/lawlietblue/js-algorithm/blob/master/MinStack.js)
