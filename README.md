@@ -46,3 +46,6 @@
 - [Majority Element](https://github.com/lawlietblue/js-algorithm/blob/master/MajorityElement.js)
 - [Excel Sheet Column Number](https://github.com/lawlietblue/js-algorithm/blob/master/ExcelSheetColumnNumber.js)
 - [Factorial Trailing Zeroes](https://github.com/lawlietblue/js-algorithm/blob/master/FactorialTrailingZeroes.js)
+- [Combine Two Tables](https://github.com/lawlietblue/js-algorithm/blob/master/CombineTwoTables.sql)
+- [Second Highest Salary](https://github.com/lawlietblue/js-algorithm/blob/master/SecondHighestSalary.sql)
+- [Employees Earning More Than Their Managers](https://github.com/lawlietblue/js-algorithm/blob/master/EmployeesEarningMoreThanTheirManagers.sql)
