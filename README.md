@@ -49,3 +49,6 @@
 - [Combine Two Tables](https://github.com/lawlietblue/js-algorithm/blob/master/CombineTwoTables.sql)
 - [Second Highest Salary](https://github.com/lawlietblue/js-algorithm/blob/master/SecondHighestSalary.sql)
 - [Employees Earning More Than Their Managers](https://github.com/lawlietblue/js-algorithm/blob/master/EmployeesEarningMoreThanTheirManagers.sql)
+- [Duplicate Emails](https://github.com/lawlietblue/js-algorithm/blob/master/DuplicateEmails.sql)
+- [Customers Who Never Order](https://github.com/lawlietblue/js-algorithm/blob/master/CustomersWhoNeverOrder.sql)
+- [Rotate Array](https://github.com/lawlietblue/js-algorithm/blob/master/RotateArray.js)
