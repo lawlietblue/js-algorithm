@@ -52,3 +52,6 @@
 - [Duplicate Emails](https://github.com/lawlietblue/js-algorithm/blob/master/DuplicateEmails.sql)
 - [Customers Who Never Order](https://github.com/lawlietblue/js-algorithm/blob/master/CustomersWhoNeverOrder.sql)
 - [Rotate Array](https://github.com/lawlietblue/js-algorithm/blob/master/RotateArray.js)
+- [Reverse Bits](https://github.com/lawlietblue/js-algorithm/blob/master/ReverseBits.js)
+- [Number of 1 Bits](https://github.com/lawlietblue/js-algorithm/blob/master/Numberof1Bits.js)
+- [Delete Duplicate Emails](https://github.com/lawlietblue/js-algorithm/blob/master/DeleteDuplicateEmails.sql)
