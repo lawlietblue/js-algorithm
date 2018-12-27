@@ -55,3 +55,6 @@
 - [Reverse Bits](https://github.com/lawlietblue/js-algorithm/blob/master/ReverseBits.js)
 - [Number of 1 Bits](https://github.com/lawlietblue/js-algorithm/blob/master/Numberof1Bits.js)
 - [Delete Duplicate Emails](https://github.com/lawlietblue/js-algorithm/blob/master/DeleteDuplicateEmails.sql)
+- [Rising Temperature](https://github.com/lawlietblue/js-algorithm/blob/master/RisingTemperature.sql)
+- [House Robber](https://github.com/lawlietblue/js-algorithm/blob/master/HouseRobber.js)
+- [Happy Number](https://github.com/lawlietblue/js-algorithm/blob/master/HappyNumber.js)
