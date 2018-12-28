@@ -58,3 +58,6 @@
 - [Rising Temperature](https://github.com/lawlietblue/js-algorithm/blob/master/RisingTemperature.sql)
 - [House Robber](https://github.com/lawlietblue/js-algorithm/blob/master/HouseRobber.js)
 - [Happy Number](https://github.com/lawlietblue/js-algorithm/blob/master/HappyNumber.js)
+- [Remove Linked List Elements](https://github.com/lawlietblue/js-algorithm/blob/master/RemoveLinkedListElements.js)
+- [Count Primes](https://github.com/lawlietblue/js-algorithm/blob/master/CountPrimes.js)
+- [Isomorphic Strings](https://github.com/lawlietblue/js-algorithm/blob/master/IsomorphicStrings.js)
