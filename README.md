@@ -61,3 +61,6 @@
 - [Remove Linked List Elements](https://github.com/lawlietblue/js-algorithm/blob/master/RemoveLinkedListElements.js)
 - [Count Primes](https://github.com/lawlietblue/js-algorithm/blob/master/CountPrimes.js)
 - [Isomorphic Strings](https://github.com/lawlietblue/js-algorithm/blob/master/IsomorphicStrings.js)
+- [Reverse Linked List](https://github.com/lawlietblue/js-algorithm/blob/master/ReverseLinkedList.js)
+- [Contains Duplicate](https://github.com/lawlietblue/js-algorithm/blob/master/ContainsDuplicate.js)
+- [Contains Duplicate II](https://github.com/lawlietblue/js-algorithm/blob/master/ContainsDuplicateII.js)
