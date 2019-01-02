@@ -73,3 +73,6 @@
 - [Delete Node in a Linked List](https://github.com/lawlietblue/js-algorithm/blob/master/DeleteNodeinaLinkedList.js)
 - [Valid Anagram](https://github.com/lawlietblue/js-algorithm/blob/master/ValidAnagram.js)
 - [Binary Tree Paths](https://github.com/lawlietblue/js-algorithm/blob/master/BinaryTreePaths.js)
+- [Add Digits](https://github.com/lawlietblue/js-algorithm/blob/master/AddDigits.js)
+- [Ugly Number](https://github.com/lawlietblue/js-algorithm/blob/master/UglyNumber.js)
+- [Missing Number](https://github.com/lawlietblue/js-algorithm/blob/master/MissingNumber.js)
