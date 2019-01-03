@@ -76,3 +76,6 @@
 - [Add Digits](https://github.com/lawlietblue/js-algorithm/blob/master/AddDigits.js)
 - [Ugly Number](https://github.com/lawlietblue/js-algorithm/blob/master/UglyNumber.js)
 - [Missing Number](https://github.com/lawlietblue/js-algorithm/blob/master/MissingNumber.js)
+- [First Bad Version](https://github.com/lawlietblue/js-algorithm/blob/master/FirstBadVersion.js)
+- [Move Zeroes](https://github.com/lawlietblue/js-algorithm/blob/master/MoveZeroes.js)
+- [Word Pattern](https://github.com/lawlietblue/js-algorithm/blob/master/WordPattern.js)
