@@ -91,3 +91,6 @@
 - [Sum of Two Integers](https://github.com/lawlietblue/js-algorithm/blob/master/SumofTwoIntegers.js)
 - [Ransom Note](https://github.com/lawlietblue/js-algorithm/blob/master/RansomNote.js)
 - [First Unique Character in a String](https://github.com/lawlietblue/js-algorithm/blob/master/FirstUniqueCharacterinaString.js)
+- [Find the Difference](https://github.com/lawlietblue/js-algorithm/blob/master/FindtheDifference.js)
+- [Nth Digit](https://github.com/lawlietblue/js-algorithm/blob/master/NthDigit.js)
+- [Binary Watch](https://github.com/lawlietblue/js-algorithm/blob/master/BinaryWatch.js)
