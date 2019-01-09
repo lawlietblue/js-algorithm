@@ -94,3 +94,6 @@
 - [Find the Difference](https://github.com/lawlietblue/js-algorithm/blob/master/FindtheDifference.js)
 - [Nth Digit](https://github.com/lawlietblue/js-algorithm/blob/master/NthDigit.js)
 - [Binary Watch](https://github.com/lawlietblue/js-algorithm/blob/master/BinaryWatch.js)
+- [Sum of Left Leaves](https://github.com/lawlietblue/js-algorithm/blob/master/SumofLeftLeaves.js)
+- [Convert a Number to Hexadecimal](https://github.com/lawlietblue/js-algorithm/blob/master/ConvertaNumbertoHexadecimal.js)
+- [Longest Palindrome](https://github.com/lawlietblue/js-algorithm/blob/master/LongestPalindrome.js)
