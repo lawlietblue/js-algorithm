@@ -97,3 +97,6 @@
 - [Sum of Left Leaves](https://github.com/lawlietblue/js-algorithm/blob/master/SumofLeftLeaves.js)
 - [Convert a Number to Hexadecimal](https://github.com/lawlietblue/js-algorithm/blob/master/ConvertaNumbertoHexadecimal.js)
 - [Longest Palindrome](https://github.com/lawlietblue/js-algorithm/blob/master/LongestPalindrome.js)
+- [Fizz Buzz](https://github.com/lawlietblue/js-algorithm/blob/master/FizzBuzz.js)
+- [Third Maximum Number](https://github.com/lawlietblue/js-algorithm/blob/master/ThirdMaximumNumber.js)
+- [Add Strings](https://github.com/lawlietblue/js-algorithm/blob/master/AddStrings.js)
