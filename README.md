@@ -100,3 +100,6 @@
 - [Fizz Buzz](https://github.com/lawlietblue/js-algorithm/blob/master/FizzBuzz.js)
 - [Third Maximum Number](https://github.com/lawlietblue/js-algorithm/blob/master/ThirdMaximumNumber.js)
 - [Add Strings](https://github.com/lawlietblue/js-algorithm/blob/master/AddStrings.js)
+- [N-ary Tree Level Order Traversal](https://github.com/lawlietblue/js-algorithm/blob/master/N-aryTreeLevelOrderTraversal.js)
+- [Number of Segments in a String](https://github.com/lawlietblue/js-algorithm/blob/master/NumberofSegmentsinaString.js)
+- [Path Sum III](https://github.com/lawlietblue/js-algorithm/blob/master/PathSumIII.js)
