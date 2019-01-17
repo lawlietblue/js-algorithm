@@ -103,3 +103,6 @@
 - [N-ary Tree Level Order Traversal](https://github.com/lawlietblue/js-algorithm/blob/master/N-aryTreeLevelOrderTraversal.js)
 - [Number of Segments in a String](https://github.com/lawlietblue/js-algorithm/blob/master/NumberofSegmentsinaString.js)
 - [Path Sum III](https://github.com/lawlietblue/js-algorithm/blob/master/PathSumIII.js)
+- [Add Two Numbers](https://github.com/lawlietblue/js-algorithm/blob/master/AddTwoNumbers.js)
+- [Longest Substring Without Repeating Characters](https://github.com/lawlietblue/js-algorithm/blob/master/LongestSubstringWithoutRepeatingCharacters.js)
+- [Longest Palindromic Substring](https://github.com/lawlietblue/js-algorithm/blob/master/LongestPalindromicSubstring.js)
